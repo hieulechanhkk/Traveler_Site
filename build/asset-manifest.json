@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cbe24cd6.chunk.css",
+    "main.js": "/static/js/main.404eac66.chunk.js",
+    "main.js.map": "/static/js/main.404eac66.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b1e73cda.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b1e73cda.js.map",
+    "static/css/2.ab9f10ac.chunk.css": "/static/css/2.ab9f10ac.chunk.css",
+    "static/js/2.73930e4d.chunk.js": "/static/js/2.73930e4d.chunk.js",
+    "static/js/2.73930e4d.chunk.js.map": "/static/js/2.73930e4d.chunk.js.map",
+    "static/js/3.4bc632c9.chunk.js": "/static/js/3.4bc632c9.chunk.js",
+    "static/js/3.4bc632c9.chunk.js.map": "/static/js/3.4bc632c9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ab9f10ac.chunk.css.map": "/static/css/2.ab9f10ac.chunk.css.map",
+    "static/css/main.cbe24cd6.chunk.css.map": "/static/css/main.cbe24cd6.chunk.css.map",
+    "static/js/2.73930e4d.chunk.js.LICENSE.txt": "/static/js/2.73930e4d.chunk.js.LICENSE.txt",
+    "static/media/github.65286b76.png": "/static/media/github.65286b76.png",
+    "static/media/App.css": "/static/media/landscape.74911d8e.jpg",
+    "static/media/london.7589370b.jpg": "/static/media/london.7589370b.jpg",
+    "static/media/newyork.399664f6.jpg": "/static/media/newyork.399664f6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1e73cda.js",
+    "static/css/2.ab9f10ac.chunk.css",
+    "static/js/2.73930e4d.chunk.js",
+    "static/css/main.cbe24cd6.chunk.css",
+    "static/js/main.404eac66.chunk.js"
+  ]
+}
